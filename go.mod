@@ -1,13 +1,13 @@
 module github.com/0xSplits/workit
 
-go 1.24.0
+go 1.25
 
 require (
 	github.com/0xSplits/otelgo v0.1.2
 	github.com/google/go-cmp v0.7.0
 	github.com/gorilla/mux v1.8.1
 	github.com/prometheus/client_golang v1.23.2
-	github.com/xh3b4sd/choreo v0.6.0
+	github.com/xh3b4sd/choreo v0.7.1
 	github.com/xh3b4sd/logger v0.11.1
 	github.com/xh3b4sd/tracer v1.0.0
 	go.opentelemetry.io/otel/metric v1.39.0
