@@ -11,7 +11,7 @@ require (
 	github.com/xh3b4sd/logger v0.11.1
 	github.com/xh3b4sd/tracer v1.0.0
 	go.opentelemetry.io/otel/metric v1.44.0
-	golang.org/x/sync v0.20.0
+	golang.org/x/sync v0.21.0
 )
 
 require (
